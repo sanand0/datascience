@@ -5,6 +5,7 @@ Introduction
 ------------
 - What is data science
 - Case studies
+- [Other books](introduction/otherbooks.md)
 
 Extraction
 ----------
