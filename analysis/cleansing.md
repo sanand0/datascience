@@ -150,3 +150,6 @@ To remove any rows that contain the word "foo" in the "name" column, use:
 
     data = data[grep('foo', data$name, invert=T),]
 
+To replace "foo" with "bar" in the "name" column, use:
+
+    data$name = gsub('foo', 'barr', data$name)
