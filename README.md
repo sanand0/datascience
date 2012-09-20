@@ -37,7 +37,7 @@ Storage
 
 Analysis
 --------
-- Data cleansing
+- [Data cleansing](analysis/cleansing.md)
 - Transforming data
 - Descriptive statistics
 - Time series analysis
