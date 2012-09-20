@@ -16,6 +16,7 @@ nature of errors.
 For example,
 
 - If the "Gender" column contains values:
+
         M       80
         F       60
         Male    15
