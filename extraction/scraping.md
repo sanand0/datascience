@@ -7,9 +7,10 @@ structured information from web sites using a program.
 There are many ways to scrape data from web sites, and many such tutorials
 written on the topic, so we'll just link to recent useful ones.
 
+For non-programmers,
 [Almost Scraping: Web Scraping for Non-Programmers](https://docs.google.com/document/d/18Q2THQvYCG2_n6nKVsZRHlaPG9iJ9NvLezOOQbEuAJs/edit?hl=en)
-is collection of links to sites / tools that help you scrape without
-learning programming ([slides](http://www.slideshare.net/michelleminkoff/almost-scraping-web-scraping-without-programming))
+is collection of links to sites / tools that help you scrape
+([slides](http://www.slideshare.net//almost-scraping-web-scraping-without-programming)).
 
 For programmers, [ScraperWiki](http://www.scraperwiki.com/) is a good place to
 write scrapers that are community-editable. There are tutorials available for
