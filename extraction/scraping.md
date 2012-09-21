@@ -11,6 +11,8 @@ For non-programmers,
 [Almost Scraping: Web Scraping for Non-Programmers](https://docs.google.com/document/d/18Q2THQvYCG2_n6nKVsZRHlaPG9iJ9NvLezOOQbEuAJs/edit?hl=en)
 is collection of links to sites / tools that help you scrape
 ([slides](http://www.slideshare.net//almost-scraping-web-scraping-without-programming)).
+[Scraping for Journalism](http://www.propublica.org/nerds/item/doc-dollars-guides-collecting-the-data)
+is an intermediate guide with some programming involved.
 
 For programmers, [ScraperWiki](http://www.scraperwiki.com/) is a good place to
 write scrapers that are community-editable. There are tutorials available for
