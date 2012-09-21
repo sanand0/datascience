@@ -15,6 +15,7 @@ High level APIs like [DumpTruck](http://www.dumptruck.io/) makes interacting wit
 1. Homepage of [SQLite](http://www.sqlite.org/)
 2. SQLite Tools for [FireFox](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/), [Android](http://aaa.andsen.dk/aSQLiteManager.html), [Windows](http://sqliteman.com/)
 3. SQLite – [Open Format for Open Data](http://thejeshgn.com/2012/08/23/sqlite-open-format-for-open-data/)
+
 ### Adanced
 1. SQLite [file format](http://www.sqlite.org/fileformat2.html)
 2. [SQLite with GIS](https://www.gaia-gis.it/fossil/libspatialite/index)
