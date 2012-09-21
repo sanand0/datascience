@@ -18,7 +18,7 @@ Extraction
 Storage
 -------
 - Google Docs and its APIs
-- SQLite
+- [SQLite](storage/sqlite.md)
 - NoSQL: Key-Value stores (Redis)
 - NoSQL: Document databases (MongoDB)
 - NoSQL: Column databases (Cassandra)
