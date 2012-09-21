@@ -12,7 +12,7 @@ Extraction
 ----------
 - Sources of data
 - Converting across formats
-- Scraping
+- [Scraping](extraction/scraping.md)
 - Crowdsourcing data
 
 Storage
