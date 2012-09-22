@@ -43,6 +43,10 @@
   developers a best-practice handbook to the installation, configuration, and
   usage of Python on a daily basis.
 
+- [A Byte of Python](http://www.swaroopch.org/notes/Python).
+
+  A Byte of Python' is a free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you. 
+
 You may also want to look at:
 
 - [Beginner's guides for non-programmers](http://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
@@ -87,3 +91,7 @@ You may also want to look at:
   badges for completing exercises, as well as a function that keeps track of a
   user's total score and displays it to others.
 
+## Tools
+
+- [DreamPie!](http://dreampie.sourceforge.net/)
+  DreamPie is a Python shell which is designed to be reliable and fun.DreamPie features a new concept for an interactive shell: the window is divided into the history box, which lets you view previous commands and their output, and the code box, where you write your code. This allows you to edit any amount of code, just like in your favorite editor, and execute it when it's ready. You can also copy code from anywhere, edit it and run it instantly.
