@@ -7,6 +7,7 @@ Introduction
 - Case studies
 - [Other books](introduction/otherbooks.md)
 - [Learning Python](introduction/learningpython.md)
+- [Learning R](introduction/learningr.md)
 
 Extraction
 ----------
