@@ -8,6 +8,7 @@ Introduction
 - [Other books](introduction/otherbooks.md)
 - [Learning Python](introduction/learningpython.md)
 - [Learning R](introduction/learningr.md)
+- [Learning Processing](introduction/learningprocessing.md)
 
 Extraction
 ----------
