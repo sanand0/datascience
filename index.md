@@ -19,7 +19,7 @@ Extraction
 
 Storage
 -------
-- Google Docs and its APIs
+- [Google Docs and its APIs](storage/googledocs.md)
 - [SQLite](storage/sqlite.md)
 - NoSQL: Key-Value stores (Redis)
 - [NoSQL: Document databases - MongoDB](storage/mongodb.md)
